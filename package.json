@@ -1,0 +1,18 @@
+{
+  "name": "NextLevelWeek_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Eder-R/NextLevelWeek_4.git",
+  "author": "Eder_Ramos-Filho <eder31250@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.11",
+    "typescript": "^4.1.5"
+  }
+}
